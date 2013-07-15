@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4 Loops", "4 Loops\4 Loops.vcxproj", "{D2D84303-50E2-416C-9428-2460CCB535BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2D84303-50E2-416C-9428-2460CCB535BD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D2D84303-50E2-416C-9428-2460CCB535BD}.Debug|Win32.Build.0 = Debug|Win32
+		{D2D84303-50E2-416C-9428-2460CCB535BD}.Release|Win32.ActiveCfg = Release|Win32
+		{D2D84303-50E2-416C-9428-2460CCB535BD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

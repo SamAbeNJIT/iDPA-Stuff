@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: Recursion, Configuration: Debug Win32 ------
+1>cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
+1>  Recursion.cpp
+1>c:\users\student\desktop\sama\c++\recursion\recursion\recursion.cpp : fatal error C1033: cannot open program database 'c:\users\student\desktop\sama\c++\recursion\recursion\debug\vc100.idb'
+--------------------- Done ----------------------
+
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
